@@ -77,7 +77,7 @@ publier des mises à jour avec Symfony et API Platform (qui disposent déjà du 
 mettre à jour des apps React avec les données envoyées par Mercure</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://www.slideshare.net/coopTilleuls/official-push-and-realtime-capabilities-for-symfony-and-api-platform-mercure-protocol)  
 ~~Video~~
 
 By [Kévin Dunglas](https://connect.symfony.com/profile/dunglas)  
