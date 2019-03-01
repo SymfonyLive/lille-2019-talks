@@ -9,7 +9,7 @@
   <dd>Keynote</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/fabpot/2-new-symfony-components-httpclient-and-mime)  
 ~~Video~~
 
 By [Fabien Potencier](https://connect.symfony.com/profile/fabpot)  
