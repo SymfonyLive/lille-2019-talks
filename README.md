@@ -111,8 +111,9 @@ By [Danielle KAYUMBI BONKOTO](https://connect.symfony.com/profile/hoddan)
 </dd>
 </dl>
 
-~~Slides~~  
-~~Video~~
+[Slides](https://speakerdeck.com/gregoirehebert/lecon-numero-139-api-platform-ce-nest-bon-qua-faire-un-poc-faux)  
+~~Video~~  
+[Code](https://github.com/KeepMEATable/api)
 
 By [Grégoire Hébert](https://connect.symfony.com/profile/gregoirehebert)  
 ![github](icon/github.png) [@GregoireHebert](https://github.com/GregoireHebert)  
