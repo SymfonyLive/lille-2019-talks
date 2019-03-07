@@ -145,7 +145,7 @@ By [Romaric Drigon](https://connect.symfony.com/profile/romaricdrigon)
 du HTTPS en local configuré automatiquement. À ne manquer sous aucun prétexte !</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://docs.google.com/presentation/d/1G7a4t6-Ix7OrW-in2HYqaD3E6_GthlnElxKRCe2LSUs)  
 ~~Video~~
 
 By [Kevin Verschaeve](https://connect.symfony.com/profile/keversc)  
