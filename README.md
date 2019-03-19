@@ -35,7 +35,7 @@ Gérer l'asynchrone avec l'arrivée dans de RabbitMQ et ElasticSearch dans le pr
 Optimiser sa stack Docker</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://www.slideshare.net/HubertLenoir/princesse-ci-au-pays-des-tests-137100532)  
 ~~Video~~
 
 By [Hubert Lenoir](https://connect.symfony.com/profile/hubert_lenoir)  
